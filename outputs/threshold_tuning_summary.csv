@@ -1,0 +1,5 @@
+queue_name,risk_score_threshold,predicted_alerts,true_positive,false_positive,false_negative,precision,recall,f1_score
+Broad monitoring review,25,768,314,454,61,0.4089,0.8373,0.5494
+Medium-and-high alert review,35,361,176,185,199,0.4875,0.4693,0.4783
+Enhanced review,50,146,135,11,240,0.9247,0.36,0.5182
+STR review candidate,60,94,90,4,285,0.9574,0.24,0.3838
