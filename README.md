@@ -116,8 +116,3 @@ If the Streamlit command is not on the PATH, use:
 - `reports/edd_case_review_template.md`: EDD investigation checklist.
 - `reports/str_narrative_template.md`: STR writing support template.
 - `reports/aml_leadership_advisory.md`: strategic advisory memo.
-
-
-## Resume Bullet Example
-
-Developed a Canadian AML transaction monitoring and EDD analytics project using Python, SQL, and statistical risk scoring on synthetic banking data; engineered FINTRAC-aligned indicators for structuring, CAD 10,000 cash aggregation, high-risk jurisdiction exposure, velocity spikes, dormant reactivation, and STR review prioritization.
