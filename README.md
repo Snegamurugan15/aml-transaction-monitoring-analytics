@@ -6,15 +6,6 @@ Build a Canadian AML case study from a data analyst/statistician perspective. Th
 
 This is a synthetic-data project for interview and portfolio use. It is not legal advice and does not replace institution-specific AML policies, FINTRAC guidance, or counsel review.
 
-## Role Alignment
-
-This project maps directly to the responsibilities of an AML analyst role:
-
-- Transaction Monitoring and EDD: Daily alert scoring, high-risk customer queueing, and EDD trigger logic.
-- Investigations and Reporting: Case-level intelligence gathering, review rationale, and STR narrative drafting support.
-- Strategic Advisory: Metrics and recommendations for AML leadership on alert quality, typology trends, and operational prioritization.
-- Regulatory Knowledge: Canadian AML framing using FINTRAC guidance, PCMLTFA/R concepts, and FATF risk-based customer due diligence principles.
-
 ## Business Scenario
 
 A Canadian financial institution needs a transparent monitoring workflow that can prioritize suspicious activity while supporting defensible investigator decisions. The analytics workflow detects:
