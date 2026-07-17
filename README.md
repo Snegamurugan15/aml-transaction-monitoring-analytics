@@ -26,14 +26,6 @@ A Canadian financial institution needs a transparent monitoring workflow that ca
 - Dormant account reactivation followed by unusual activity.
 - Statistical outliers relative to normal customer and channel behaviour.
 
-## Analyst Questions
-
-1. Which transactions should be escalated for AML review today?
-2. Which customers should enter EDD because their behaviour is inconsistent with known risk?
-3. Which alerts support STR review based on facts, context, and ML/TF indicators?
-4. Which typologies are driving operational workload?
-5. What threshold tuning would improve recall while controlling false positives?
-
 ## Project Structure
 
 ```text
@@ -134,13 +126,6 @@ If the Streamlit command is not on the PATH, use:
 - `reports/str_narrative_template.md`: STR writing support template.
 - `reports/aml_leadership_advisory.md`: strategic advisory memo.
 
-## Interview Talking Points
-
-- I used synthetic data because AML information is highly sensitive and cannot be shared publicly.
-- I designed the scoring logic to be explainable because AML investigators and compliance reviewers need clear alert rationale.
-- I incorporated Canadian AML concepts: FINTRAC, PCMLTFA/R, EDD, STR review, and CAD 10,000 large-cash monitoring.
-- I separated EDD recommendation, STR review recommendation, and large-cash reporting indicators because they support different compliance workflows.
-- I validated the monitoring logic with precision, recall, and F1, then translated the results into leadership recommendations.
 
 ## Resume Bullet Example
 
